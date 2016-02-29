@@ -1,0 +1,6 @@
+#include <stdio.h>
+int manin()
+{
+printf("Hello World, THIS IS ATAIEC VERSION");
+return 0;
+}
